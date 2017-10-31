@@ -4,18 +4,22 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-D   | Hüseyin Arda Ayberk | 410
+10-D   | Buğrahan Dutucu | 419
 
-#  (buraya proje başlığını yazınız)
+# Dominoes (IYPT 1993)
+
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+
+Problem: 
+Dominoların, masa yüzeyinde uzun bir sıra halinde birbirlerinden biraz uzakta dikey olarak yerleştirilmesi, birinci domino taşına kuvvet uygulanması ve "düşme dalgası"nın sıra boyunca izlemesinin gözlenmes ve son olarak bu dalganın maksimum hızının deneysel olarak hesaplanması ve ölçülmesi.
+
+İzlenecek yol:
+Bu deneyi yapamadan önce elbette, kullanacağımız malzemeleri temin edeceğiz. Deney malzemelerinin temin edilmesinin ardından, domino taşlarımızı düz bir zeminde belirli aralıkarla dizip baştaki domino taşına kuvvet uygulayacağız ve ardından son domino taşının düşümüne kadar geçen süreyi kaydedeceğiz. Ardından aynı deneyi domino taşları arasındaki mesafeleri değiştirerek ve farklı büyüklüklerde kuvvet uygulayarak gözlemleyeceğiz. Ardından deneysel ve teorik olarak bazı sonuçlar çıkartacağız ve bu sonuçlara göre deneyimizi tamamlayacağız. Deneyimizi sonuçlandırırken ve hesaplamalarımızı yaparken birtakım kaynaklardan faydalanacağız. Bu kaynaklar aşağıda listelenmiştir.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. http://www.fencebilim.com/fizik/formul.html
+ 2. http://blog.milliyet.com.tr/cig--domino-ve-kelebek-etkisi-nuanslari/Blog/?BlogNo=149018
+Son erişim tarihi: 30 Ekim 2017.
 
